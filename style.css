@@ -1,0 +1,29 @@
+div{
+    align-items: center;
+    justify-content: center;
+}
+
+input{
+
+    background: rgb(43, 56, 167);
+    width: 150px;
+    height: 30px;
+    color: rgb(217, 221, 224);
+    border-radius: 15px;
+    font-size: large;
+    cursor: pointer;
+    
+    
+}
+.fild{
+    background-color: rgb(100, 90, 187);
+    color: rgb(217, 221, 224);
+    border-radius: 15px;
+    width: 190px;
+    font-size: large;
+}
+
+input:hover{
+    cursor: pointer;
+ background: rgb(145, 136, 230);
+}
